@@ -1,0 +1,10 @@
+# Tapo C225 PTZ 控制系統依賴套件
+
+# 核心套件 - Tapo 攝影機控制
+pytapo>=3.3.49
+
+# REST API 伺服器（可選）
+flask>=2.0.0
+
+# 如果需要進階功能
+requests>=2.25.0
